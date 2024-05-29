@@ -1,0 +1,30 @@
+Tactic 	Technique	Procedure	Indicator
+0. Acquiring assets	0.9 Acquiring social media accounts	0.9.1 Acquiring Facebook assets	104 accounts
+0. Acquiring assets	0.9 Acquiring social media accounts	0.9.1 Acquiring Facebook assets	39 Pages
+0. Acquiring assets	0.9 Acquiring social media accounts	0.9.2 Acquiring Instagram accounts	7 accounts
+			
+1. Disguising assets	1.1 Adopting visual disguise	1.1.1 Copying profile pictures 	Copying profile photos from online sources
+1. Disguising assets	1.1 Adopting visual disguise	1.1.2 Using profile pictures like created using generative adversarial networks (GAN)	Using profile photos likely generated using artificial intelligence such as Generative Adversarial Networks (GAN)
+1. Disguising assets	1.2 Posing as non-existent person	1.2.5 Posing as fictional military personnel	Posing as military personnel
+1. Disguising assets	1.2 Posing as non-existent person	1.2.3 Posing as fictional activist	Posing as environmentalist
+1. Disguising assets	1.2 Posing as non-existent person		Posing as dance teacher
+			
+2. Gathering information	2.2 Monitoring specific events	2.2.1 Monitoring breaking news 	The network reacted to events in Croatia in real time, indicating an ability to track and respond to breaking news. The method used to do this is not known. 
+			
+5. Evading detection	5.2 Camouflaging content	5.2.4 Posting spam as camouflage	Many accounts in this network posted spammy photos or videos of scenery, food or fashion between their political posts, likely to camouflage their strategic goal 
+5. Evading detection	5.2 Camouflaging content	5.2.5 Making "personal" comments as camouflage	Some accounts made “personal” comments alongside the links they shared, likely to appear more individual  
+5. Evading detection	5.5 Obfuscating infrastructure	5.5.1 Using proxy IP in target country	Route traffic through proxy IP in Croatia  
+			
+6. Indiscriminate engagement	6.2 Amplifying with likely fake accounts on social media	6.2.1 Amplifying with likely fake accounts on Facebook	Sharing on Facebook and liking comments made by other fake accounts
+			
+7. Targeted engagement	7.1 Running ads	7.1.1 Advertising to promote content	About 20 USD in spending for ads on Facebook, paid for in US Dollars  
+7. Targeted engagement	7.2 Engaging with users outside the operation	7.2.2 Acquiring Page followers	About 100 accounts followed one or more of these Pages 
+7. Targeted engagement	7.2 Engaging with users outside the operation	7.2.4 Acquiring Instagram followers	 About 150 accounts followed one or more of these Instagram accounts
+7. Targeted engagement	7.3 Engaging with specific audience	7.3.2 Posting into specifically themed Groups	Posting into Groups focused on regional politics 
+7. Targeted engagement	7.3 Engaging with specific audience	7.3.3 Commenting on specific posts	Commenting on news and political Pages in Croatia
+7. Targeted engagement	7.5 Directing online traffic	7.5.1 Directing audience to other social media	Directing audience towards Telegram channels  
+7. Targeted engagement	7.5 Directing online traffic	7.5.2 Directing audience to website	Directing audience towards websites 
+7. Targeted engagement	7.6 Posting about individuals or institutions	7.6.2 Posting positive content about named individuals institutions	The network commented positively on the official Pages for the Croatian Democratic Union or the HDZ party, its politicians and candidates — both national and local
+7. Targeted engagement	7.6 Posting about individuals or institutions	7.6.1 Posting negative content about named individuals or institutions	The network commented critically about opposition figures, the President of Croatia and his Social Democratic Party
+			
+9. Enabling longevity	9.5 Replacing infrastructure	9.5.1 Changing social media accounts 	The network changed various fake accounts' names and profile pictures after public reporting surfaces  
